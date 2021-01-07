@@ -1,0 +1,30 @@
+body{
+   
+
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.328),rgba(53, 41, 7, 0.452),#c4c4c483),url("../imges/bck.jpg");
+    background-repeat: no-repeat;
+
+    background-position: center;
+}
+h1,h4{
+   
+    text-align: center;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    background-image: url("../imges/che.jpg");
+    background-repeat: no-repeat;
+   width: 300px;
+   height: 300px;
+ margin-left: 500px;
+}
+#secnd-pic{
+    color: white;
+    font-size: 24px;
+}
+h3{
+    text-align: center;
+    font-size: 22px;
+}
